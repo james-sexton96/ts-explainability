@@ -1,5 +1,3 @@
 __pycache__/
 .venv/
-data/train_data.npz
-data/test_data.npz
-data/scalers.pkl
+data/*
